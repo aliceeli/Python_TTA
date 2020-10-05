@@ -1,3 +1,5 @@
+# Work in progress, choose your own adventure game
+
 print("You awaken in a dark cell. The stone floor is damp and cold beneath you.")
 print("To your left is an open door through which a light is flickering.")
 print("To your right you see a desk with a large, open book.")
